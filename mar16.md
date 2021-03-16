@@ -18,11 +18,16 @@ The websites that the instructions provide for finding soundfonts don't work, so
 
 Maybe time to try a different track.
 
-### MuseScore
-
+### SoundFonts
 Found soundfonts here: 
 https://musical-artifacts.com/
 https://cymatics.fm/blogs/production/soundfonts
+
+Struggling to load them into SynthFont. Not sure if they're compatible.
+
+### MuseScore
+
+MuseScore is more for creating scores, BUT! When I put the GB Greene midi file into it, it gave me a perfect piano notation of it! Very cool - see it [here](/file.pdf).
 
 ## SonicPi
 
