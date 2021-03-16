@@ -48,4 +48,6 @@ My first issue is that I cannot download it from the link. I figured out eventua
 
 ## A Return to SynthFont
 
-So far SynthFont has been the best in terms of doing anything, so I returned there. Figured out how to change instruments among their pre-sets, (Plug and Play --> MIDI Program --> choose from presets), but I still don't know how to upload different sounds or remix them. 
+So far SynthFont has been the best in terms of doing anything, so I returned there. Figured out how to change instruments among their pre-sets, (Plug and Play --> MIDI Program --> choose from presets), but I still don't know how to upload different sounds or remix them.
+
+Time to give up for the day, and do all my other work (joy).
