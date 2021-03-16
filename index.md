@@ -7,3 +7,7 @@
 - [March 15](/mar15.md)
 - [March 16](/mar16.md)
 
+
+### To Do:
+- [Readings](/readings-todo.md)
+- 
