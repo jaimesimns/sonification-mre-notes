@@ -29,12 +29,23 @@ Struggling to load them into SynthFont. Not sure if they're compatible.
 
 MuseScore is more for creating scores, BUT! When I put the GB Greene midi file into it, it gave me a perfect piano notation of it! Very cool - see it [here](/notation-gbgreenepiano.pdf). It doesn't allow you to remix the sounds though, so not the software for me. 
 
-## SonicPi
-
 ## Freesound
 Also, Meranda mentioned [Freesound](https://freesound.org) as a place for royalty-free sounds (I think you just have to give proper attribution or w/e).
 
+## Kanto Sound Editor
+Tried it out, but very dated and everything still sounded like a piano. [this](https://www.kantoeditor.com/how-to-change-instruments-for-a-midi-file/). 
+
+Getting a bit tired of failures, so going to go and mess with [Jython](https://jythonmusic.me/sonifying-images/) and hope I can remix within the software.
+
+## Jython
+My first issue is that I cannot download it from the link. I figured out eventually how to get it, by opening the link address in a new tab, but it took a while. I've got it downloaded now, but I'm not sure where to go next with it since it's an environment and not an app. I'll have to read the website more closely, but I'm giving up for now.
+
 ## Other Sound Editors
-https://lmms.io/
-https://www.image-line.com/
-(search for DAWS, apparantly?) digital audio workstation
+[LMMS](https://lmms.io/) - tried, but has no instruments and no idea how to add them. 
+[FL Studio](https://www.image-line.com/)
+[Kontakt](https://www.native-instruments.com/en/products/komplete/samplers/kontakt-6/) - expensiiiiiive
+[Reaper](http://www.reaper.fm/) tried to follow a tutorial; no idea how to make the plug-in work as they say it should. Yay (boo) for updates that change things. 
+
+## A Return to SynthFont
+
+So far SynthFont has been the best in terms of doing anything, so I returned there. Figured out how to change instruments among their pre-sets, (Plug and Play --> MIDI Program --> choose from presets), but I still don't know how to upload different sounds or remix them. 
