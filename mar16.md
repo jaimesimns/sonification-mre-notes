@@ -2,13 +2,20 @@
 
 This is the start of a new website to track my work on my MRE. The theme will likely change in the future, but it's good enough for now.
 
-March 15:
+## March 15
 Dr. Graham and I messed around with two images:
 - ![G. B. Greene at a wharf on Lac Deschenes](https://photos.app.goo.gl/d95Mwv1ZPFXzsr6E6)
 - ![Fitzroy Ragged Chute](https://photos.app.goo.gl/vd7wVFt24BcptdF1A)
 
-Used a modified version of https://jythonmusic.me/sonifying-images/ (modified and held by Dr. Graham) to create a series of sonifications, included in the non-website portion of this repository - not currently sure how to link them to this md file.
+Used a modified version of https://jythonmusic.me/sonifying-images/ (modified and held by Dr. Graham) to create a series of sonifications, included in this repository.
 
-G. B. Greene - funk
+### Sonifications:
+[Fitzroy - funk](/fitzroy-funk-130bpm.mp3)
+[Fitzroy - piano](/fitzroy-chute-piano.mp3)
+[G. B. Greene - piano](/gb-greene-piano.mp3)
+[G. B. Greene - disco](/gb-greene-disco.mp3)
+[Midi, G. B. Greene - piano](/output_gbgreene.png(1).mid)
 
-[elephant](/001.mp3)
+### Process:
+- Dr. Graham scaled both images to 400 pixels, and sonified using 1/4, 1/2, and 3/4 rows of the image. This produced the piano versions of the sonifications. For the Fitzroy funk, the goal was to speed up the sonification and make it give the feel of rushing water.
+
