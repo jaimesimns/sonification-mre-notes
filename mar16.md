@@ -27,7 +27,7 @@ Struggling to load them into SynthFont. Not sure if they're compatible.
 
 ### MuseScore
 
-MuseScore is more for creating scores, BUT! When I put the GB Greene midi file into it, it gave me a perfect piano notation of it! Very cool - see it [here](/file.pdf).
+MuseScore is more for creating scores, BUT! When I put the GB Greene midi file into it, it gave me a perfect piano notation of it! Very cool - see it [here](/notation-gbgreenepiano.pdf). It doesn't allow you to remix the sounds though, so not the software for me. 
 
 ## SonicPi
 
