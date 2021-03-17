@@ -33,3 +33,11 @@ end
 
 Dr. Graham also answered my message re: yesterday's failures, and suggested Audacity, Garageband, and LMMS. LMMS I checked out yesterday but struggled to get SoundFonts recognized, but I'm going to try it again with this recommendation. Unfortunately I think Garageband is only for Macs, which I do not have, so Audacity it'll be! Not sure how to remix MIDI files in Audacity, since I've only ever remixed/merged mp3 files, but we'll see how it goes!
 
+### Sonic Pi
+So I just finished messing around with SonicPi, and it's great for numerical data! Lots of fun samples to add - I made a choral piece based on random numbers (because I don't have any handily-accessible data right now) using Dr. Graham's outline, and it was pretty cool. A lot of samples are very electronic though - definitely no fiddle, or any other kind of string. Lots of the sounds would be suitable for making a pseudo-sonar for 'tracking' shipwrecks along the Ottawa River though! 
+
+So not really for remixing, but more for creating tracks based on numbers that you could then remix perhaps? Very cool, not for image sonification unless you turn the image into numbers. Which you could, but which doesn't help me with my MIDI file. Onto Audacity!
+
+### Audacity
+I've used Audacity before, 
+
