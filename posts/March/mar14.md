@@ -5,9 +5,10 @@
 While trying to figure out sonification and image sonification, I played around with [Photosounder](https://photosounder.com/) and [AnthemScore](https://www.lunaverus.com/). 
 Photosounder was shared with me by Dr. Graham, and is a paid software - of course, I used the free demo. Photosounder uses the light/dark of an image to create sound. You can load an image or an mp3 file into the software, and it will respectively create a sonification or an image. 
 
-I tested Photosounder using an image of the ![Ann Sisson](https://github.com/jaimesimns/sonification-mre-notes/blob/5062154b4f38703cad3a442c2574478ebcc43a2c/sonifications/annsisson/ann%20sisson%20photo.jpg). Photosounders reads the image from left to right, and its reading of the Ann Sisson produced [this sound](/ann-sisson-fullbw.mp3). 
+I tested Photosounder using an image of the Ann Sisson:
+![Ann Sisson](https://github.com/jaimesimns/sonification-mre-notes/blob/5062154b4f38703cad3a442c2574478ebcc43a2c/sonifications/annsisson/ann%20sisson%20photo.jpg). Photosounders reads the image from left to right, and its reading of the Ann Sisson produced [this sound](/ann-sisson-fullbw.mp3). 
 
-See the desktop here:
+See the Photosounder desktop here:
 ![Ann Sisson - Photosounder](https://github.com/jaimesimns/sonification-mre-notes/blob/5c13fea8f4ad4c67130806efc65cf0dcb01101df/sonifications/annsisson/photosounder-ann-sisson.png)
 
 It's a very busy noise that's rather unpleasant to listen to, so instead I created a line drawing of the Ann Sisson to test how that would sound. It sounded [like this](ann-sisson-linedrawing.mp3). 
