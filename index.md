@@ -9,6 +9,6 @@
 - [March 17](/posts/March/mar17.md)
 
 
-### To Do:
-- [Readings](/posts/readings-todo.md)
-- 
+### Readings
+- [To Do](/posts/readings/todo.md)
+- [Sterne and Akiyama](/posts/readings/sterne-akiyama.md)
