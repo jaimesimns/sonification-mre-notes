@@ -31,3 +31,5 @@ end
 
 (Again, that belongs to Dr. Graham). Since yesterday was such a failure, I decided to try to copy his methods and see if I could learn what I need from that. So, I'm going to put this into Sonic Pi, and see how that goes. I'm not sure how to remix the midi file in Sonic Pi, but maybe I'll figure that out later.
 
+Dr. Graham also answered my message re: yesterday's failures, and suggested Audacity, Garageband, and LMMS. LMMS I checked out yesterday but struggled to get SoundFonts recognized, but I'm going to try it again with this recommendation. Unfortunately I think Garageband is only for Macs, which I do not have, so Audacity it'll be! Not sure how to remix MIDI files in Audacity, since I've only ever remixed/merged mp3 files, but we'll see how it goes!
+
