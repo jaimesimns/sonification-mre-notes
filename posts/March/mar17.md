@@ -1,6 +1,6 @@
 # March 17
 
-Since yesterday did not pan out for me, I'm going to try a different approach. One of Dr. Graham's [blog posts](https://electricarchaeology.ca/2021/03/01/the-dig-we-know-where-the-bodies-are-buried/) involved the sonification of "The Sutton Hoo ship burial," by R. L. S. Bruce-Mitford. He used Sonic Pi to remix it, using this code:
+Since yesterday did not pan out for me, I'm going to try a different approach. One of Dr. Graham's [blog posts](https://electricarchaeology.ca/2021/03/01/the-dig-we-know-where-the-bodies-are-buried/) involved the sonification of "The Sutton Hoo ship burial," by R. L. S. Bruce-Mitford. He used [Sonic Pi](https://sonic-pi.net/) to make it, using this code:
 
 ```with_fx :reverb do
    in_thread do
@@ -39,5 +39,22 @@ So I just finished messing around with SonicPi, and it's great for numerical dat
 So not really for remixing, but more for creating tracks based on numbers that you could then remix perhaps? Very cool, not for image sonification unless you turn the image into numbers. Which you could, but which doesn't help me with my MIDI file. Onto Audacity!
 
 ### Audacity
-I've used Audacity before, 
+I've used [Audacity](https://www.audacityteam.org/) before, for a few drag numbers - performing as Hades and Batman, funnily enough. However, I haven't ever used it with MIDI files, and I'm not sure if it'll do what I want it to do. What I *want* to do is turn my MIDI file (sonification of G. B. Greene image) into an Ottawa Valley-style ballad or fiddle reel, such as [Ottawa Valley Reel - Eddy Arsenault](https://www.youtube.com/watch?v=tLUg8aHmpFk). Synths aren't really my thing, and also, I don't think that 'modern' styles are necessary to make people dance - so why not try to use vaguely period-appropriate musicical styles for the sonification instead?
+
+So the MIDI capabilities in Audacity are not great, and don't allow you to change it to other instruments like I want. 
+
+### Virtual Violin/Guitar/Piano 
+In messing around with Audacity and how to change its instruments, I did find a [virtual violin](https://virtualpiano.net/?instr=violin) which is pretty cool! You can type a message using your keyboard keys and then play it. There are options for violin, guitar, etc. but they're all fairly unrealistic unfortunately. Also, no fiddle.
+
+### Back to SynthFonts
+I'm hoping that if I can change the instrument to a violin/string instrument and then put it in Audacity or something then I can remix it? We'll see. So far I was (once) able to change the VST instrument, but then my notes all disappeared, so that's fun. I was then able to redo changing the VST with the VST pack I downloaded, but it's really not fiddle-like.
+
+Found an online tutorial for FLStudios, so back to there I go.
+
+### FL Studios
+I uploaded my midi file and so far I'm playing with changing the instruments. It's easy and right now I have a free trial, though that expires at the end of March and I'm not sure how much it is after. Easy to change instruments though, which is a plus! Unfortunate side is that I accidentally closed some things and now can't reopen the windows. Also very hard to do this on a single screen.
+
+
+
+
 
