@@ -14,4 +14,4 @@
 - [Sterne and Akiyama](/posts/readings/sterne-akiyama.md)
 
 ### Inspo
-- [Ottawa Valley Music Links](
+- [Ottawa Valley Music Links](/posts/music-inspo.md)
