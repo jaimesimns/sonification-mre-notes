@@ -52,9 +52,7 @@ I'm hoping that if I can change the instrument to a violin/string instrument and
 Found an online tutorial for FLStudios, so back to there I go.
 
 ### FL Studios
-I uploaded my midi file and so far I'm playing with changing the instruments. It's easy and right now I have a free trial, though that expires at the end of March and I'm not sure how much it is after. Easy to change instruments though, which is a plus! Unfortunate side is that I accidentally closed some things and now can't reopen the windows. Also very hard to do this on a single screen.
-
-
+I uploaded my midi file and so far I'm playing with changing the instruments. It's easy and right now I have a free trial, though that expires at the end of March and I'm not sure how much it is after. Easy to change instruments though, which is a plus! It's also easy to make patterns, and I've made a good start with making a pattern, following [this tutorial](https://www.youtube.com/watch?v=pDIsEZsalAo). Still not sure how to remix my midi file though!
 
 
 
