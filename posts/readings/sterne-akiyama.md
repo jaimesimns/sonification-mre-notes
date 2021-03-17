@@ -24,15 +24,6 @@ Sonification discourse suggests that hearing is more sensitive to affect than th
 
 Currently, there is a split between data-driven empirical sonification and artistic sonification bc data scientists feel the art aspect undervalues the potential for its use in science.
 
-Also discusses the merge with sound art and art-science, sonification for accessibility and emplacement (immediate experience of a space). 
-
-
-
-
-Thoughts: using the Ottawa River map as a sound map for modulation (widening, narrowing) the sonification of the song, which would include map data overlaid with other sounds?
-
-
-Playlist of [Canadian Fiddle Reels](https://www.youtube.com/watch?v=l9QwPTDpEOs&list=PLagohWeh0J6ZRrZgA7SxDtjaQggJm1GoO&index=7) some from Ottawa Valley. Ideally, I would like to turn my data into this!
-
+Also discusses the merge with sound art and art-science, sonification for accessibility and emplacement (immediate experience of a space).
 
 
