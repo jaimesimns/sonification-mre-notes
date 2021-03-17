@@ -4,12 +4,12 @@ This is the start of a new website to track my work on my MRE. The theme will li
 
 ## March 15
 Dr. Graham and I messed around with two images:
-- ![G. B. Greene at a wharf on Lac Deschenes](https://photos.app.goo.gl/d95Mwv1ZPFXzsr6E6)
-- ![Fitzroy Ragged Chute](https://photos.app.goo.gl/vd7wVFt24BcptdF1A)
+- G. B. Greene at Lac Deschenes wharf: ![G. B. Greene at a wharf on Lac Deschenes](https://github.com/jaimesimns/sonification-mre-notes/blob/b5bac9244d2e476da60c73c3aec0881a58c332e6/sonifications/gbgreene/steamergreeneataylmer.jpg)
+- Fitzroy Ragged Chute: ![Fitzroy Ragged Chute](https://github.com/jaimesimns/sonification-mre-notes/blob/b5bac9244d2e476da60c73c3aec0881a58c332e6/sonifications/fitzroy/fitzroyraggedchute.jpg)
 
 Used a modified version of https://jythonmusic.me/sonifying-images/ (modified and held by Dr. Graham) to create a series of sonifications, included in this repository.
 
-### Sonifications:
+### Sonifications (also availble in 'sonifications' folder:
 [Fitzroy - funk](/fitzroy-funk-130bpm.mp3)
 [Fitzroy - piano](/fitzroy-chute-piano.mp3)
 [G. B. Greene - piano](/gb-greene-piano.mp3)
