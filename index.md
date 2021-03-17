@@ -3,11 +3,12 @@
 
 ### Index:
 
-- [March 14](/mar14.md)
-- [March 15](/mar15.md)
-- [March 16](/mar16.md)
+- [March 14](/posts/March/mar14.md)
+- [March 15](/posts/March/mar15.md)
+- [March 16](/posts/March/mar16.md)
+- [March 17](/posts/March/mar17.md)
 
 
 ### To Do:
-- [Readings](/readings-todo.md)
+- [Readings](/posts/readings-todo.md)
 - 
