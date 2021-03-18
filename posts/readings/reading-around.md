@@ -8,6 +8,13 @@ With the lack of success the past few days (March 14-17), I've been feeling kind
 # [Noise Music](https://en.wikipedia.org/wiki/Noise_music)
 - "Noise music is a genre of music that is characterised by the expressive use of noise within a musical context. This type of music tends to challenge the distinction that is made in conventional musical practices between musical and non-musical sound.[4] Noise music includes a wide range of musical styles and sound-based creative practices that feature noise as a primary aspect."
 
+# [Intermedia](https://en.wikipedia.org/wiki/Intermedia)
+- an interplay between two art forms or two disciplines
+
+# [Auraldiversity](https://www.eventbrite.co.uk/e/auraldiversities-session-one-tickets-86685583915#) 
+- like neurodiversity, but aural - use the link to visit one page and then the other links are below it
+- 
+
 
 
 Affect Theory
