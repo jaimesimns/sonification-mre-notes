@@ -22,6 +22,8 @@
 
 [] Westerkamp H (1974) Soundwalking originally published in Sound Heritage, vol III, Number 4 Victoria B.C., revised 2001
 
+[] [Developing the Practice and Theory of Stream-based Sonification - Steven Barrass](http://scan.net.au/scan/journal/display.php?journal_id=135)
+
 
 Other Theories to Examine:
 1. Ingold and Phemenomenology
