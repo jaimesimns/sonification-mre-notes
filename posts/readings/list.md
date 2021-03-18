@@ -2,9 +2,9 @@
 
 [x] LoudNumbers emails (signed up, continuing to read their newsletters)
 
-[x] [Sterne and Akiyama](https://sterneworks.org/recordingthatneverwanted.pdf); notes are [here](posts/readings/sterne-akiyama.md)
+[x] [Sterne and Akiyama](https://sterneworks.org/recordingthatneverwanted.pdf); notes are [here](sterne-akiyama.md)
 
-[x] [The Aesthetics of Noise - Torben Sangild](https://www.ubu.com/papers/noise.html); notes are [here](posts/readings/sangild.md)
+[x] [The Aesthetics of Noise - Torben Sangild](https://www.ubu.com/papers/noise.html); notes are [here](sangild.md)
 
 [x] [Soundwalking, Sonification, and Activism - Andrea Polli](https://link.springer.com/article/10.1007/s00146-011-0345-3); notes are [here](posts/readings/polli.md) - I really liked this one; discussed geosonification and soundwalking
 
