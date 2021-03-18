@@ -24,6 +24,7 @@
 
 [] [Developing the Practice and Theory of Stream-based Sonification - Steven Barrass](http://scan.net.au/scan/journal/display.php?journal_id=135)
 
+[] [Still the Silence: Feminist Reflections at the Edges of Sound](https://link.springer.com/chapter/10.1057/9781137002372_1);      notes are [here](posts/readings/rowe-malhotra.md)
 
 Other Theories to Examine:
 1. Ingold and Phemenomenology
