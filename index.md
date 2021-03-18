@@ -9,7 +9,7 @@
 - [March 17](/posts/March/mar17.md)
 
 
-### [Reading List + Notes](/posts/readings/list.md)
+### Reading List [+ Notes](/posts/readings/list.md)
 
 [Reading Around Sonification + Sleep Around Before You Marry an Argument](https://tressie.substack.com/p/sleep-around-before-you-marry-an)]
 - notes are [here](/posts/readings/reading-around.md)
