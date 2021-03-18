@@ -14,6 +14,9 @@
 
 [x] [A Feminist Approach to Sound in We Need to Talk About Kevin - Brett Ashleigh](https://screen-queens.com/2016/11/17/a-feminist-approach-to-sound-in-we-need-to-talk-about-kevin/) notes are [here](posts/readings/ashleigh.md)
 
+[] [Partial Figures: Sound in Queer and Feminist Thought - Amalle Dublon](https://dukespace.lib.duke.edu/dspace/handle/10161/16226); notes are [here](/posts/readings/dublon.md)
+
+
 [?] [Still the Silence: Feminist Reflections at the Edges of Sound](https://link.springer.com/chapter/10.1057/9781137002372_1);      notes are [here](posts/readings/rowe-malhotra.md)
 
 [?] [Sonic Flux: Sound, Art, and Metaphysics - Cristoph Cox](https://press.uchicago.edu/ucp/books/book/chicago/S/bo27886631.html); notes are [here](posts/readings/cox.md)
