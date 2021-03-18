@@ -12,6 +12,8 @@
 
 [x] [Sleep Around Before You Marry an Argument + Reading Around Sonification](https://tressie.substack.com/p/sleep-around-before-you-marry-an)]; notes are [here](posts/readings/reading-around.md)
 
+[x] [A Feminist Approach to Sound in We Need to Talk About Kevin - Brett Ashleigh](https://screen-queens.com/2016/11/17/a-feminist-approach-to-sound-in-we-need-to-talk-about-kevin/) notes are [here](posts/readings/ashleigh.md)
+
 [?] [Still the Silence: Feminist Reflections at the Edges of Sound](https://link.springer.com/chapter/10.1057/9781137002372_1);      notes are [here](posts/readings/rowe-malhotra.md)
 
 [?] [Sonic Flux: Sound, Art, and Metaphysics - Cristoph Cox](https://press.uchicago.edu/ucp/books/book/chicago/S/bo27886631.html); notes are [here](posts/readings/cox.md)
@@ -28,7 +30,7 @@
 
 [] [Composing Paradoxes: Feminist Process in Sound Arts and Experimental Musics - Holly Ingleton](https://openaccess.city.ac.uk/id/eprint/17510/1/Ingleton,%20Holly%20(redacted).pdf)
 
-[] [A Feminist Approach to Sound in We Need to Talk About Kevin - Brett Ashleigh](https://screen-queens.com/2016/11/17/a-feminist-approach-to-sound-in-we-need-to-talk-about-kevin/) notes are [here]
+
 
 Other Theories to Examine:
 1. Ingold and Phemenomenology
