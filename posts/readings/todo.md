@@ -12,6 +12,8 @@
 
 [x] [Sleep Around Before You Marry an Argument + Reading Around Sonification](https://tressie.substack.com/p/sleep-around-before-you-marry-an)]; notes are [here](posts/readings/reading-around.md)
 
+[?] [Still the Silence: Feminist Reflections at the Edges of Sound](https://link.springer.com/chapter/10.1057/9781137002372_1);      notes are [here](posts/readings/rowe-malhotra.md)
+
 [?] [Sonic Flux: Sound, Art, and Metaphysics - Cristoph Cox](https://press.uchicago.edu/ucp/books/book/chicago/S/bo27886631.html); notes are [here](posts/readings/cox.md)
 
 [] [Listening through the noise - Joanna Demers](https://global.oup.com/academic/product/listening-through-the-noise-9780195387667?cc=ca&lang=en&)
@@ -24,7 +26,7 @@
 
 [] [Developing the Practice and Theory of Stream-based Sonification - Steven Barrass](http://scan.net.au/scan/journal/display.php?journal_id=135)
 
-[] [Still the Silence: Feminist Reflections at the Edges of Sound](https://link.springer.com/chapter/10.1057/9781137002372_1);      notes are [here](posts/readings/rowe-malhotra.md)
+
 
 Other Theories to Examine:
 1. Ingold and Phemenomenology
