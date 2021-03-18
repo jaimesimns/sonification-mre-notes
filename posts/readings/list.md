@@ -34,7 +34,7 @@ Priest, Eldritch. "Music Noise" in Boring Formless Nonsense: Experimental Music 
 
 [] [Composing Paradoxes: Feminist Process in Sound Arts and Experimental Musics - Holly Ingleton](https://openaccess.city.ac.uk/id/eprint/17510/1/Ingleton,%20Holly%20(redacted).pdf)
 
-
+https://nmbx.newmusicusa.org/acoustic-ecology-and-the-experimental-music-tradition/ Dunn 2008
 
 Other Theories to Examine:
 1. Ingold and Phemenomenology
