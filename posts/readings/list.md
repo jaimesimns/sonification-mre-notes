@@ -2,24 +2,24 @@
 
 [x] LoudNumbers emails (signed up, continuing to read their newsletters)
 
-[x] [Sterne and Akiyama](https://sterneworks.org/recordingthatneverwanted.pdf); notes are [here](sterne-akiyama.md)
+[x] [Sterne and Akiyama](https://sterneworks.org/recordingthatneverwanted.pdf); notes are [here](/posts/readings/sterne-akiyama.md)
 
-[x] [The Aesthetics of Noise - Torben Sangild](https://www.ubu.com/papers/noise.html); notes are [here](sangild.md)
+[x] [The Aesthetics of Noise - Torben Sangild](https://www.ubu.com/papers/noise.html); notes are [here](/posts/readings/sangild.md)
 
-[x] [Soundwalking, Sonification, and Activism - Andrea Polli](https://link.springer.com/article/10.1007/s00146-011-0345-3); notes are [here](polli.md) - I really liked this one; discussed geosonification and soundwalking
+[x] [Soundwalking, Sonification, and Activism - Andrea Polli](https://link.springer.com/article/10.1007/s00146-011-0345-3); notes are [here](/posts/readings/polli.md) - I really liked this one; discussed geosonification and soundwalking
 
-[x] [Soundwalking: creating moving environmental sound narratives](https://soundwalkinginteractions.wordpress.com/2010/09/27/soundwalking-creating-moving-environmental-sound-narratives/)' notes are [here](mccartney.md)
+[x] [Soundwalking: creating moving environmental sound narratives](https://soundwalkinginteractions.wordpress.com/2010/09/27/soundwalking-creating-moving-environmental-sound-narratives/)' notes are [here](/posts/readings/mccartney.md)
 
-[x] [Sleep Around Before You Marry an Argument + Reading Around Sonification](https://tressie.substack.com/p/sleep-around-before-you-marry-an)]; notes are [here](/reading-around.md)
+[x] [Sleep Around Before You Marry an Argument + Reading Around Sonification](https://tressie.substack.com/p/sleep-around-before-you-marry-an)]; notes are [here](/posts/readings/reading-around.md)
 
-[x] [A Feminist Approach to Sound in We Need to Talk About Kevin - Brett Ashleigh](https://screen-queens.com/2016/11/17/a-feminist-approach-to-sound-in-we-need-to-talk-about-kevin/) notes are [here](ashleigh.md)
+[x] [A Feminist Approach to Sound in We Need to Talk About Kevin - Brett Ashleigh](https://screen-queens.com/2016/11/17/a-feminist-approach-to-sound-in-we-need-to-talk-about-kevin/) notes are [here](/posts/readings/ashleigh.md)
 
-[] [Partial Figures: Sound in Queer and Feminist Thought - Amalle Dublon](https://dukespace.lib.duke.edu/dspace/handle/10161/16226); notes are [here](dublon.md)
+[] [Partial Figures: Sound in Queer and Feminist Thought - Amalle Dublon](https://dukespace.lib.duke.edu/dspace/handle/10161/16226); notes are [here](/posts/readings/dublon.md)
 
 
-[?] [Still the Silence: Feminist Reflections at the Edges of Sound](https://link.springer.com/chapter/10.1057/9781137002372_1);      notes are [here](rowe-malhotra.md)
+[?] [Still the Silence: Feminist Reflections at the Edges of Sound](https://link.springer.com/chapter/10.1057/9781137002372_1);      notes are [here](/posts/readings/rowe-malhotra.md)
 
-[?] [Sonic Flux: Sound, Art, and Metaphysics - Cristoph Cox](https://press.uchicago.edu/ucp/books/book/chicago/S/bo27886631.html); notes are [here](cox.md)
+[?] [Sonic Flux: Sound, Art, and Metaphysics - Cristoph Cox](https://press.uchicago.edu/ucp/books/book/chicago/S/bo27886631.html); notes are [here](/posts/readings/cox.md)
 
 [] [Listening through the noise - Joanna Demers](https://global.oup.com/academic/product/listening-through-the-noise-9780195387667?cc=ca&lang=en&)
 
