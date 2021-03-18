@@ -13,12 +13,16 @@ With the lack of success the past few days (March 14-17), I've been feeling kind
 
 # [Auraldiversity](https://www.eventbrite.co.uk/e/auraldiversities-session-one-tickets-86685583915#) 
 - like neurodiversity, but aural - use the link to visit one page and then the other links are below it
-- 
+
+
 
 
 
 Affect Theory
+
 Performativity
+
+Feminist sound theory?
 
 
 
