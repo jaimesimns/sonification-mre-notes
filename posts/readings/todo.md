@@ -20,6 +20,7 @@
 
 [] [Listening to Noise and Silence: Towards a Philosophy of Sound Art - Salome Voegelin](https://front.bc.ca/thefront/wp-content/uploads/2017/11/salome-voegelin-listening-to-noise-and-silence-excerpt.pdf)
 
+[] Westerkamp H (1974) Soundwalking originally published in Sound Heritage, vol III, Number 4 Victoria B.C., revised 2001
 
 
 Other Theories to Examine:
