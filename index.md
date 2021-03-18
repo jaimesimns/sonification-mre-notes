@@ -3,13 +3,13 @@
 
 ### Notes Index:
 
-- [March 14](mar14.md)
-- [March 15](mar15.md)
-- [March 16](mar16.md)
-- [March 17](mar17.md)
+- [March 14](/posts/March/mar14.md)
+- [March 15](/posts/March/mar15.md)
+- [March 16](/posts/March/mar16.md)
+- [March 17](/posts/March/mar17.md)
 
 
-### [Reading List + Notes](list.md)
+### [Reading List + Notes](/posts/readings/list.md)
 
 [Reading Around Sonification + Sleep Around Before You Marry an Argument](https://tressie.substack.com/p/sleep-around-before-you-marry-an)]
 - notes are [here](/posts/readings/reading-around.md)
