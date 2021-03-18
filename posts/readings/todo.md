@@ -26,7 +26,9 @@
 
 [] [Developing the Practice and Theory of Stream-based Sonification - Steven Barrass](http://scan.net.au/scan/journal/display.php?journal_id=135)
 
+[] [Composing Paradoxes: Feminist Process in Sound Arts and Experimental Musics - Holly Ingleton](https://openaccess.city.ac.uk/id/eprint/17510/1/Ingleton,%20Holly%20(redacted).pdf)
 
+[] [A Feminist Approach to Sound in We Need to Talk About Kevin - Brett Ashleigh](https://screen-queens.com/2016/11/17/a-feminist-approach-to-sound-in-we-need-to-talk-about-kevin/) notes are [here]
 
 Other Theories to Examine:
 1. Ingold and Phemenomenology
