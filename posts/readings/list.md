@@ -16,6 +16,7 @@
 
 [] [Partial Figures: Sound in Queer and Feminist Thought - Amalle Dublon](https://dukespace.lib.duke.edu/dspace/handle/10161/16226); notes are [here](/posts/readings/dublon.md)
 
+Priest, Eldritch. "Music Noise" in Boring Formless Nonsense: Experimental Music and The Aesthetics of Failure, p. 132. London: Bloomsbury Publishing; New York: Bloomsbury Academic, 2013.
 
 [?] [Still the Silence: Feminist Reflections at the Edges of Sound](https://link.springer.com/chapter/10.1057/9781137002372_1);      notes are [here](/posts/readings/rowe-malhotra.md)
 
