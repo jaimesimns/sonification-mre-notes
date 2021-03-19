@@ -49,6 +49,7 @@ https://rhizome.org/editorial/2014/sep/17/queer-listening-interview-sergei-tcher
 https://www.flowjournal.org/2019/07/the-sound-of-queer-masculinity-in-dorian-electras-flamboyant/
 https://www.erudit.org/en/journals/ethno/2009-v31-n1-ethno3558/038514ar/
 http://siupress.siu.edu/books/978-0-8093-2669-3
+https://revues.mshparisnord.fr/rhc/index.php?id=348
 
 
 
