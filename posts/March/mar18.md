@@ -12,10 +12,11 @@ So...
           - this has political implications [9, 10] and allows for a connection with acoustic ecology [11, 12] through the conjunction of the base track with the sonifications and the interplay of real and constructed environment through the noise backdrop and geosonifications.
         - the choice to focus on auditory nature of an environment "defines historic and ongoing social relations of humans to that environment" [13.1, 13.2]; 
         - my choice to focus noise versus music is deliberate and plays with traditional meanings of music vs noise-based soundscape [14]; can connect this to Ottawa Valley music traditions arriving from colonial settlement  
-  - Part B: *image sonifications* turned into music (not based on auditory icons) would allow for the sonification of colonial imagery in the form of archival photos, but also connect with the colonial nature of settler music in the Ottawa Valley through the traditional meanings of music vs soundscape [see 14 again]
-        - I see this as alternating geosonification with image sonification in a square-ish section of the Ottawa River
-        - the use of Ottawa Valley-style music creates engagement at the auditory level with the history itself, and not just with the image alone
-  - the role of silence/base audio in between reaching different sonifications [15]
+  - Part B: potentially *image sonifications* turned into music (not based on auditory icons) would allow for the sonification of colonial imagery in the form of archival photos, but also connect with the colonial nature of settler music in the Ottawa Valley through the traditional meanings of music vs soundscape [see 14 again]; "amplification of the meaning" [15]
+        - I see this as alternating geosonification with image sonification in a vaguely rectangular section of the Ottawa River
+        - the use of Ottawa Valley-style music creates engagement at the auditory level with the history itself, not just with the image alone; returning sound to the visual image for a multisensory understanding of the past [15.1, 15.2]
+        - the role of silence/base audio in between reaching different sonifications [16]
+- not totally sure of the image sonifications; could include both or just focus on the data
 
 
 
@@ -41,4 +42,7 @@ So...
 [13.1] Dunn (2008) 
 [13.2] McCartney (2010): Against Shaeffer's dislike of dissociated soundscapes: "schizophonia can also lead to schismogenesis, or the birth of new perspectives, as Steven Feld points out (1994). Putting interpretations of soundwalk experiences into different historical and geographical contexts can lead to further insights.”
 [14] Polli (2011): "the meaning of traditional music leans towards the celebration of human shaping and manipulation of the environment through sound; soundscapes celebrate human connection and suboridination to the complexity of the environment"
-[15] Rowe and Malhotra (2013: "We theorize silence as a space of fluidity, non-linearity, and as a sacred, internal space that provides a refuge—especially for nondominant peoples."
+[15.1] Kramer and Noel (2020): "computational processes of remediation can illuminate new dimensions of digital archives through defamiliarization of visual representation and an expanded range of sensory comprehension."
+[15.2] Kramer and Noel (2020): "The practice of data fusion (a concept borrowed from Lev Manovich) has led to the production of a new media object useful for historical inquiry by systematically connecting visual archives and sound archives pertaining to the same event. "
+[16] Rowe and Malhotra (2013: "We theorize silence as a space of fluidity, non-linearity, and as a sacred, internal space that provides a refuge—especially for nondominant peoples."
+
