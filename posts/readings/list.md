@@ -56,6 +56,29 @@ https://www.researchgate.net/publication/228625435_Sonic_panoramas_Experiments_w
 
 
 
+Tweet thread recommended by Dr. Graham: https://twitter.com/ArchSoundScapes/status/1373926998054166530
+
+Mlekuz, D. (2004). Listening to landscapes: modelling past soundscapes in GIS. Internet Archaeology, 16 is a classic. 
+
+But for the latest, check  work by @CatrionaCooper (who will also have a fuller bibliography to hand). Her thesis definitely covers this: https://catrionacooper.wordpress.com/the-project/
+
+archaeoacoustic book
+
+https://onlinelibrary.wiley.com/doi/abs/10.1111/1750-0206.12413
+
+https://www.tandfonline.com/toc/rwar20/46/3?nav=tocList&
+
+https://www.ekho-verlag.com/crossing-borders/
+
+https://www.smolicki.com/
+
+https://www.ncl.ac.uk/apl/people/profile/usueruiz-arana.html
+
+http://www.ijssh.org/vol7/831-KH0010.pdf
+
+
+
+
 
 
 
