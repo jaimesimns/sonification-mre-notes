@@ -76,6 +76,9 @@ https://www.ncl.ac.uk/apl/people/profile/usueruiz-arana.html
 
 http://www.ijssh.org/vol7/831-KH0010.pdf
 
+https://intarch.ac.uk/journal/issue44/12/index.html
+
+https://intarch.ac.uk/journal/issue44/4/index.html
 
 
 
