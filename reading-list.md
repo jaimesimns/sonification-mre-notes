@@ -80,8 +80,8 @@ https://intarch.ac.uk/journal/issue44/12/index.html
 
 https://intarch.ac.uk/journal/issue44/4/index.html
 
-
-
+http://www.ijssh.org/vol7/831-KH0010.pdf
+https://www.tandfonline.com/toc/rwar20/46/3?nav=tocList&
 
 
 
