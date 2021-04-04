@@ -86,6 +86,9 @@ https://www.tandfonline.com/toc/rwar20/46/3?nav=tocList&
 [PDF](https://www.tandfonline.com/doi/abs/10.1080/13534645.2017.1339968?journalCode=tpar20) Annie Goh (2017) Sounding Situated Knowledges: Echo in Archaeoacoustics,
 Parallax, 23:3, 283-304, DOI: 10.1080/13534645.2017.1339968
 
+https://books.google.ca/books?hl=en&lr=&id=y_n1DwAAQBAJ&oi=fnd&pg=PP1&dq=%22At+any+given+moment%E2%80%99:+duration+in+archaeology+and+photography%22+Mark+Knight+and+Lesley+McFadyen&ots=hcAn9hfRzw&sig=lvsJTD0pd0UP10yGJHvg2a81_k0&redir_esc=y#v=onepage&q&f=false "Our alternative view is to understand Photography not as representation but as transformation, and to find hope in renewing its potential in Archaeology not to perpetuate but to make 'trouble' for civilization"
+
+
 
 Other Theories to Examine:
 1. Ingold and Phemenomenology
