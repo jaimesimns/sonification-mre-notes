@@ -9,10 +9,8 @@
 - [Finished Readings](/readings/reading-list.md)
 - [To Do Readings](/readings/to-do.md)
 
-### Assorted MRE Planning Notes
+### MRE Planning Notes
 - [Layout](/mre-parts/layout.md)
 - [Timeline](/mre-parts/timeline.md)
-- [Title Page](/mre-parts/title-page.md
-- [Abstract](/mre-parts/abstract.md)
-- [Acknowledgements](/mre-parts/acknowledgements.md)
-- 
+- more in mre-parts and mre-parts/MRE folders
+
