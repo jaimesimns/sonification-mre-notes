@@ -87,6 +87,48 @@ https://www.tandfonline.com/toc/rwar20/46/3?nav=tocList&
 Parallax, 23:3, 283-304, DOI: 10.1080/13534645.2017.1339968
 
 https://books.google.ca/books?hl=en&lr=&id=y_n1DwAAQBAJ&oi=fnd&pg=PP1&dq=%22At+any+given+moment%E2%80%99:+duration+in+archaeology+and+photography%22+Mark+Knight+and+Lesley+McFadyen&ots=hcAn9hfRzw&sig=lvsJTD0pd0UP10yGJHvg2a81_k0&redir_esc=y#v=onepage&q&f=false "Our alternative view is to understand Photography not as representation but as transformation, and to find hope in renewing its potential in Archaeology not to perpetuate but to make 'trouble' for civilization"
+https://www.journalofglobalindigeneity.com/article/19438-queering-land-based-education-during-covid19
+
+https://www.frontiersin.org/articles/10.3389/fpsyg.2021.570741/full
+
+https://water-relations.net/
+
+https://www.routledge.com/Transecology-Transgender-Perspectives-on-Environment-and-Nature/Vakoch/p/book/9780367086510
+
+https://portal.cca.edu/events-calendar/transecologies/
+
+https://www.cca.edu/newsroom/transecologies-explores-ways-relating-nature-without-assimilating/
+
+https://www.danielbcoleman.com/7432010-2019-ecosystem-service-trans-ecologies
+
+https://emergencemagazine.org/essay/river-at-the-heart-of-the-world/
+
+
+https://ncph.org/history-at-work/industrial-heritage-as-agent-of-gentrification/#0
+
+https://www.saralenzi.com/datasonificationblog
+
+https://niche-canada.org/2021/03/11/the-history-of-rivers-can-teach-us-about-disruption-in-the-21st-century/
+
+http://www.digitalhumanities.org//dhq/vol/15/1/000508/000508.html
+
+https://datajournalism.com/read/longreads/data-sonification?utm_source=loudnumbers&utm_medium=email
+
+https://atmos.earth/black-feminist-ecological-thought-essay/
+
+
+https://nowviskie.org/2013/resistance-in-the-materials/?utm_source=dhcu&utm_medium=email
+
+
+https://niche-canada.org/2021/03/01/web-based-hgis-for-storytelling-of-environmental-histories-and-connections-across-the-north-atlantic/
+
+https://theseedbox.se/blog/to-tend-for-to-care-with-three-pieces-on-listening-as-method/
+
+https://jhiblog.org/2021/02/10/will-sound-studies-ever-emerge/amp/?__twitter_impression=true
+
+https://niche-canada.org/method-and-meaning/
+
+https://counterarchive.ca/working-papers-series-ana-rita-morais-remediating-archival-impulse-0
 
 
 
