@@ -12,3 +12,5 @@
 11. Bibliography
 12. Glossary
 13. Appendix A, B, etc.
+
+consider using gitbook?
