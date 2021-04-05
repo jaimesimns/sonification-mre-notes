@@ -9,3 +9,7 @@
 ### Reading List: Articles + Notes
 - [Finished Readings](/reading-list.md)
 - [To Do Readings](/to-do.md)
+
+### Assorted MRE Planning Notes
+- [Timeline + Layout](posts/timeline.md)
+- [Acknowledgements](/posts/acknowledgements-list.md)
