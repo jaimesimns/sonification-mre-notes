@@ -28,7 +28,7 @@ Soundwalking, Sonification, and Activism - Andrea Polli
 - [article](https://link.springer.com/article/10.1007/s00146-011-0345-3)
 - [notes](/posts/readings/polli.md) - I really liked this one; discussed geosonification and soundwalking
 
-Soundwalking: creating moving environmental sound narratives
+Soundwalking: creating moving environmental sound narratives - McCartney, Andra
 - [article](https://soundwalkinginteractions.wordpress.com/2010/09/27/soundwalking-creating-moving-environmental-sound-narratives/)
 - [notes](/posts/readings/mccartney.md)
 
@@ -40,7 +40,7 @@ Partial Figures: Sound in Queer and Feminist Thought - Amalle Dublon
 - [article](https://dukespace.lib.duke.edu/dspace/handle/10161/16226)
 - [notes](/posts/readings/dublon.md)
 
-Still the Silence: Feminist Reflections at the Edges of Sound
+Still the Silence: Feminist Reflections at the Edges of Sound - Aimee Carrillo Rowe and Sheena Malhotra
 - [article](https://link.springer.com/chapter/10.1057/9781137002372_1)
 - [notes](/posts/readings/rowe-malhotra.md)
 
