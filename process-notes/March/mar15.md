@@ -1,5 +1,3 @@
-# March 15
-
 This is the start of a new website to track my work on my MRE. The theme will likely change in the future, but it's good enough for now.
 
 ## March 15
