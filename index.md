@@ -8,6 +8,7 @@
 - [March 16](/posts/March/mar16.md)
 - [March 17](/posts/March/mar17.md)
 - [March 18; ideas at this point](/posts/March/mar18.md)
+- [April 4](/posts/April/apr4.md)
 
 ### Reading List [+ Notes](/reading-list.md)
 
