@@ -132,3 +132,21 @@ Other Theories to Examine:
 3. Performativity theory
 4. Sound Art theory - starting to dig into that
 5. Embodiment and soundwalks
+6. # [Acoustic Ecology](https://web.archive.org/web/20060623010253/http://www.canadiangeographic.ca/magazine/jf06/indepth/science.asp)
+- "by mixing natural sounds with traditional music Truax, and others like him, are contributing to a growing field of study called acoustic ecology. It's a discipline that analyzes how we interpret, and are affected by, natural and artificial sounds around us." -- could be useful in conjunction with the soundwalk and the interplay of real and constructed environment through the noise backdrop and sonifications.
+
+# [Noise Music](https://en.wikipedia.org/wiki/Noise_music)
+- "Noise music is a genre of music that is characterised by the expressive use of noise within a musical context. This type of music tends to challenge the distinction that is made in conventional musical practices between musical and non-musical sound.[4] Noise music includes a wide range of musical styles and sound-based creative practices that feature noise as a primary aspect."
+
+# [Intermedia](https://en.wikipedia.org/wiki/Intermedia)
+- an interplay between two art forms or two disciplines
+
+Trans ecology
+
+Affect Theory
+
+Performativity
+
+Feminist sound theory?
+
+
