@@ -10,7 +10,7 @@
 - [March 18; ideas at this point](/posts/March/mar18.md)
 - [April 4](/posts/April/apr4.md)
 
-### Reading List [+ Notes](/reading-list.md)
+### Reading List: Articles + Notes
 
 Reading Around Sonification + Sleep Around Before You Marry an Argument
 - [article](https://tressie.substack.com/p/sleep-around-before-you-marry-an)
@@ -47,3 +47,5 @@ Still the Silence: Feminist Reflections at the Edges of Sound - Aimee Carrillo R
 Sonic Flux: Sound, Art, and Metaphysics - Cristoph Cox
 - [article](https://press.uchicago.edu/ucp/books/book/chicago/S/bo27886631.html)
 - [notes](/posts/readings/cox.md)
+
+[To Do: Reading List](/reading-list.md)
