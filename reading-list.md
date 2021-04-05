@@ -1,7 +1,5 @@
 # Suggested readings (TO DO)
 
-[] [Partial Figures: Sound in Queer and Feminist Thought - Amalle Dublon](https://dukespace.lib.duke.edu/dspace/handle/10161/16226); notes are [here](/posts/readings/dublon.md)
-
 Priest, Eldritch. "Music Noise" in Boring Formless Nonsense: Experimental Music and The Aesthetics of Failure, p. 132. London: Bloomsbury Publishing; New York: Bloomsbury Academic, 2013.
 
 [] [Listening through the noise - Joanna Demers](https://global.oup.com/academic/product/listening-through-the-noise-9780195387667?cc=ca&lang=en&)
