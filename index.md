@@ -13,7 +13,7 @@
 ### Reading List [+ Notes](/reading-list.md)
 
 Reading Around Sonification + Sleep Around Before You Marry an Argument
-- [article]((https://tressie.substack.com/p/sleep-around-before-you-marry-an)
+- [article](https://tressie.substack.com/p/sleep-around-before-you-marry-an)
 - [notes](/posts/readings/reading-around.md) and also include links to other topics I'm looking into, plus readings that I intent to do but haven't yet
 
 The Recording that Never Wanted to be Heard and Other Stories of Sonification - Sterne and Akiyama
