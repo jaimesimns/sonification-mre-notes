@@ -12,5 +12,7 @@
 ### Assorted MRE Planning Notes
 - [Layout](/mre-parts/layout.md)
 - [Timeline](/mre-parts/timeline.md)
-- [Acknowledgements](/mre-parts/acknowledgements-list.md)
+- [Title Page](/mre-parts/title-page.md
+- [Abstract](/mre-parts/abstract.md)
+- [Acknowledgements](/mre-parts/acknowledgements.md)
 - 
