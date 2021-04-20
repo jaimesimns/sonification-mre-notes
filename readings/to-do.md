@@ -149,4 +149,5 @@ Performativity
 
 Feminist sound theory?
 
+https://fb.watch/4_LSFsGw3o/ artist talk, Jez riley French, RIVERSSOUNDS
 
