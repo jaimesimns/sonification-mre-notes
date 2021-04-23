@@ -11,8 +11,9 @@
 8. Ch 3 = process
 9. Ch 4 = conclusion + bibliography + glossary + appendices; approx 40-60 pgs total (done by end of January)
 10. edit and professionalize (February 18 at latest)
-11. hand in to send to reviewers (March 18, latest March 25)
-12. defend April 15th ish (check what the specific due date is)
+11. hand in to send to reviewers (March 18, latest March 31)
+12. two weeks for reviewers to read; then one week to fix up
+13. finish April 15th ish (check what the specific due date is)
 
 ### Reverse MRE/MRP Timeline - Notes
 April (15ish?) - defend
