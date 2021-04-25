@@ -120,11 +120,6 @@ https://theseedbox.se/blog/to-tend-for-to-care-with-three-pieces-on-listening-as
 
 https://jhiblog.org/2021/02/10/will-sound-studies-ever-emerge/amp/?__twitter_impression=true
 
-https://niche-canada.org/method-and-meaning/
-
-https://counterarchive.ca/working-papers-series-ana-rita-morais-remediating-archival-impulse-0
-
-https://seismograf.org/node/19500 soundscapes as archives [notes](/readings/done/smoliki-campo.md)
 
 Other Theories to Examine:
 1. Ingold and Phemenomenology
