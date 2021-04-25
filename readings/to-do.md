@@ -124,7 +124,7 @@ https://niche-canada.org/method-and-meaning/
 
 https://counterarchive.ca/working-papers-series-ana-rita-morais-remediating-archival-impulse-0
 
-https://seismograf.org/node/19500 soundscapes as archives
+https://seismograf.org/node/19500 soundscapes as archives [notes](/readings/done/smoliki-campo.md)
 
 Other Theories to Examine:
 1. Ingold and Phemenomenology
