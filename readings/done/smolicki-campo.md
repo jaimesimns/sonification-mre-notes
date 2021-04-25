@@ -1,3 +1,5 @@
+# Soundscapes as Archives: Traces and absences of the aural past in Vancouver - Smolicki and Campo
+
 Smolicki, Jacek, and Candace Campo. "Soundscapes as Archives: Traces and absences of the aural past in Vancouver." _Seismograph_. April 6, 2021. HTTPS://DOI.ORG/10.48233/SEISMOGRAF2611
 
 This work centers on Jacek Smolicki's _Intertidal Room_, where "the composition explores how the entanglement of historical, environmental, and cultural processes at the city's intertidal zones has been reflected in their present soundscapes." It focuses on "the part concerned with Vancouver and British Columbia's colonial history." "Intertidal Room is an attempt to practically engage in rethinking and reconfiguring some of the assumptions that have underlain the field of acoustic ecology and soundscape studies as conceptualized and practiced by the World Soundscape Project."
