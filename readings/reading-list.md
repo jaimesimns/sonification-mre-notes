@@ -9,6 +9,11 @@ The Aesthetics of Noise - Torben Sangild
 - [article](https://www.ubu.com/papers/noise.html)
 - [notes](/posts/readings/sangild.md)
 
+### Soundscapes
+Soundscapes as Archives - Jacek Smolicki and Candace Campo
+- [article](https://seismograf.org/node/19500)
+- [notes](/readings/done/smolicki-campo.md)
+
 ### Feminist/Queer Sound
 A Feminist Approach to Sound in We Need to Talk About Kevin - Brett Ashleigh
 - [article](https://screen-queens.com/2016/11/17/a-feminist-approach-to-sound-in-we-need-to-talk-about-kevin/) 
