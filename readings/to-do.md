@@ -55,8 +55,6 @@ Mlekuz, D. (2004). Listening to landscapes: modelling past soundscapes in GIS. I
 
 But for the latest, check  work by @CatrionaCooper (who will also have a fuller bibliography to hand). Her thesis definitely covers this: https://catrionacooper.wordpress.com/the-project/
 
-archaeoacoustic book
-
 https://onlinelibrary.wiley.com/doi/abs/10.1111/1750-0206.12413
 
 https://www.tandfonline.com/toc/rwar20/46/3?nav=tocList&
@@ -117,9 +115,6 @@ https://nowviskie.org/2013/resistance-in-the-materials/?utm_source=dhcu&utm_medi
 https://niche-canada.org/2021/03/01/web-based-hgis-for-storytelling-of-environmental-histories-and-connections-across-the-north-atlantic/
 
 https://theseedbox.se/blog/to-tend-for-to-care-with-three-pieces-on-listening-as-method/
-
-https://jhiblog.org/2021/02/10/will-sound-studies-ever-emerge/amp/?__twitter_impression=true
-
 
 Other Theories to Examine:
 1. Ingold and Phemenomenology
