@@ -2,7 +2,7 @@
 layout: default
 title: “Welcome to my MRE log!”
 description: "This is mainly for me, to help me track what I've done and where I'm going."
-permalink: /project1/
+permalink: /index/
 ---
 
 ## Process Notes:
