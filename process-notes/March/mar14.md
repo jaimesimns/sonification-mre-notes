@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # March 14
 
 (This is a pre-dated post, the website was created later).
