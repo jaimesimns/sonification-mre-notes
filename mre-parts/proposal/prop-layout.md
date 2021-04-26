@@ -11,18 +11,21 @@
 ## Parts:
 [-] introduction:
     - with historical context and statement of specific interests (1 page)
+
 [-] discussion of:
   - key scholarly works that identify interpretive patterns
   - major questions 
   - kinds of evidence
   - theoretical perspective
   - concepts that inform the lit (1-2 pages)
+
 [-] a clear and concise statement about:
   - research Qs that you want to pose of your topic
   - how these questions relate to the lit
   - an ID of the kinds of primary sources
   - method and theory you will work with to answer those questions (1-2 pages)
- [-] bibliography, broken into:
+ 
+[-] bibliography, broken into:
    - primary sources
    - secondary sources (2-3 pages)
 
