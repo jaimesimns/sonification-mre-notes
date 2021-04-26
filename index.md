@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # “Welcome to my MRE log!”
 This is mainly for me, to help me track what I've done and where I'm going.
 
