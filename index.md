@@ -1,5 +1,6 @@
 ---
 layout: default
+title: "Welcome to my MRE log"
 ---
 
 # “Welcome to my MRE log!”
