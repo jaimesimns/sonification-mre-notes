@@ -16,7 +16,9 @@ This is mainly for me, to help me track what I've done and where I'm going.
 
 ### April
 - [April 4](/sonification-mre-notes/process-notes/April/apr4.md)
+- [April 18](/sonification-mre-notes/process-notes/April/apr18.md)
 - [April 20](/sonification-mre-notes/process-notes/April/apr20.md)
+- [April 22](/sonification-mre-notes/process-notes/April/apr22.md)
 - [April 25](/sonification-mre-notes/process-notes/April/apr25.md)
 - [April 26 + Tech Notes](/sonification-mre-notes/process-notes/April/technotes-apr26.md)
 
