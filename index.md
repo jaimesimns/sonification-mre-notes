@@ -21,7 +21,7 @@ This is mainly for me, to help me track what I've done and where I'm going.
 - [April 26 + Tech Notes](/sonification-mre-notes/process-notes/April/technotes-apr26.md)
 
 ## Reading List: Articles + Notes
-### [Finished Readings](/sonification-mre-notes/readings/done.md)
+### [Finished Readings](/sonification-mre-notes/readings/reading-list.md)
 
 ### [Future Readings](/sonification-mre-notes/readings/to-do.md)
 
