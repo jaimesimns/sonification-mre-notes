@@ -1,9 +1,3 @@
----
-layout: default
-title: “MRE Timeline”
----
-
-
 # MRE Timeline
 
 ## In-Order Timeline (Approx)
