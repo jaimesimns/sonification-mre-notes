@@ -1,1 +1,4 @@
-# Bibliography
+----
+layout: default
+title: “Bibliography”
+----
