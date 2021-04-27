@@ -3,6 +3,18 @@ layout: default
 title: "Welcome to my MRE log"
 ---
 
+
+# *THE CURRENT VERSION OF THIS CONTENT/SITE CAN BE FOUND AT https://archaeolojay.github.io. PLEASE GO THERE AS OF 24/4/2021.*
+
+
+
+
+
+
+
+
+
+
 # “Welcome to my MRE log!”
 This is mainly for me, to help me track what I've done and where I'm going.
 
